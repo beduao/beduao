@@ -1,5 +1,7 @@
 ## hey, people! I'm Beatriz
 
+
+
 * 🛠 I'm currently working on my [singers](beduao.github.io/singers) webpage;
 * 📚 I'm currently learning better Python and C#;
 * 🤔 I'm looking for help with some APIs;
