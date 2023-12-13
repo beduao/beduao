@@ -1,9 +1,6 @@
-### Hi there 👋
+## hey, people! I'm Beatriz
 
 <!--
-**beduao/beduao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 🛠 I'm currently working on my [singers]() webpage;
+* 📚 I'm currently learning better Python and C#;
+* 🤔 I'm looking for help with some APIs;
+* ⚡ I have a soft spot for Hardware, but it doesn't take the place of software development at all.
+* 📫 If you would like to reach me, send me an [email](mailto:eduaobeatriz@gmail.com)!
+
+Here's some of the most recent projects that i worked on:
+* Pocotoro
+  
+* GoTransit
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beduao&layout=donut)
