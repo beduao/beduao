@@ -2,7 +2,7 @@
 
 
 
-* 🛠 I'm currently working on my [singers](beduao.github.io/singers) webpage;
+* 🛠 I'm currently working on my [singers](https://beduao.github.io/singers) webpage;
 * 📚 I'm currently learning better Python and C#;
 * 🤔 I'm looking for help with some APIs;
 * ⚡ I have a soft spot for Hardware, but it doesn't take the place of software development at all.
