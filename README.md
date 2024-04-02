@@ -26,9 +26,12 @@
     ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-nunes-s&repo=GoTransit&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
 
 
-* Singers Webpage  
+* Singers Webpage
+    
+  [Repository](https://beduao.github.io/singers/)
 
-  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=beduao&repo=singers&bg(https://beduao.github.io/singers/)_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
+
+  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=beduao&repo=singers&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
 
 <h3><strong>Languages and Tools:</strong></h3>
 <div style="display: inline_block" id="languages"><br>
