@@ -12,18 +12,19 @@
 ### Here's some of the most recent projects that i worked on:
 * Pocotoro
 
-[Repository](https://github.com/tiagovst/PocotoroFX)
+  [Repository](https://github.com/tiagovst/PocotoroFX)
 
 
-  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagovst&repo=PocotoroFX&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
+    ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagovst&repo=PocotoroFX&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
 
 
 * GoTransit
 
-[Repository](https://github.com/gabriel-nunes-s/GoTransit)
+  [Repository](https://github.com/gabriel-nunes-s/GoTransit)
 
 
-  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-nunes-s&repo=GoTransit&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
+    ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-nunes-s&repo=GoTransit&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
+
 
 * Singers Webpage  
 
