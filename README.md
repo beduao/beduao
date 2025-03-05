@@ -2,9 +2,10 @@
 
 
 
-* 🛠 I'm currently working on some webpage projects;
-* 📚 I'm currently learning better Python and C#;
-* 🤔 I'm looking for help with some APIs;
+* 🛠 I'm currently majoring in computer engineering;
+* 👩‍💻 I have some good Java knowledge;
+* 📚 I'm learning better Python and C#;
+* 🤔 I'm looking for help with some frameworks;
 * ⚡ I have a soft spot for Hardware, but it doesn't take the place of software development at all.
 * 📫 If you would like to reach me, send me an [email](mailto:eduaobeatriz@gmail.com)!
 
